@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LocationUpdater</string>
+
+
+
+
+    <string name="unknown_location">Unknown location</string>
+
+    <string name="batched_location_updates">Batched location updates</string>
+
+    <plurals name="num_locations_reported">
+        <item quantity="zero">No location reported</item>
+        <item quantity="one">One location reported</item>
+        <item quantity="other">%d locations reported</item>
+    </plurals>
+
+    <string name="default_channel">Default channel</string>
+</resources>
